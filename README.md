@@ -5,3 +5,10 @@
   
   -Correção no Relatorio:Onde aparecia automaticamente Biometria, quando a pessoa não tinha cartão definido
 # Versão 3.1
+
+# Versão 3.1.2
+-Implementação de Obrigatoriedade na Unidade no cadastro do morador, para solucionar erros com o sincronismo
+
+-Mudança no webConfig "NOMECONDOMINIO" Função relacionada para aparecer o nome do condominio sobre a NAVBAR
+
+# Versão 3.1.2
