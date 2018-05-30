@@ -12,3 +12,8 @@
 -Mudança no webConfig "NOMECONDOMINIO" Função relacionada para aparecer o nome do condominio sobre a NAVBAR
 
 # Versão 3.1.2
+
+# Versão 3.1.3
+-Correção do calculo da zona de tempo
+
+# Versão 3.1.3
