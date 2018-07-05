@@ -86,6 +86,8 @@
 
 -Implementação da Ferramenta C1 nos relatorios.
 
+-Configuração de Portas de Entradas e Saida no WebConfig, Seguindo o Padrão de já existente no mesmo.
+
 # Versão 3.1.9
 ////////////////////////////////////////////////////////////////////////////////////////////
 
