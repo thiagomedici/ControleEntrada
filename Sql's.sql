@@ -763,6 +763,7 @@ set @LogEquiapmentoID =  (Select ID from inserted i)
 set @PessoaID =  (select id from Pessoa where Cartao = (Select CardNo from inserted i))
 set @EntradaAvulsaID = (select top 1 ID from EntradaAvulsa where Pessoa = @PessoaID order by DataCadastro desc)
 insert into vinculoEquipamento values (@EntradaAvulsaID,@LogEquiapmentoID)
+
 CREATE TABLE [dbo].[Cartoes] (
     [ID] [int] NOT NULL IDENTITY,
     [CardNo] [bigint] NOT NULL,
