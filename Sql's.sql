@@ -738,11 +738,12 @@ As
 	Where
 				ID=@ID
 GO
+
+
 create table vinculoEquipamento
 (
 EntradaAvulsaID varchar(max),
-LogEquipamentoID varchar(max),
-[dbo].[InbioBiometriaTemp])
+LogEquipamentoID varchar(max))
 
 USE [ControleEntrada]
 GO
